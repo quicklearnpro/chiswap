@@ -4,8 +4,8 @@
     "static/js/0.454e5a78.chunk.js.map": "/white-black-hong/chiswap.git/static/js/0.454e5a78.chunk.js.map",
     "static/js/1.ab9e1769.chunk.js": "/white-black-hong/chiswap.git/static/js/1.ab9e1769.chunk.js",
     "static/js/1.ab9e1769.chunk.js.map": "/white-black-hong/chiswap.git/static/js/1.ab9e1769.chunk.js.map",
-    "main.js": "/white-black-hong/chiswap.git/static/js/main.0a3dd452.chunk.js",
-    "main.js.map": "/white-black-hong/chiswap.git/static/js/main.0a3dd452.chunk.js.map",
+    "main.js": "/white-black-hong/chiswap.git/static/js/main.eefa037f.chunk.js",
+    "main.js.map": "/white-black-hong/chiswap.git/static/js/main.eefa037f.chunk.js.map",
     "runtime-main.js": "/white-black-hong/chiswap.git/static/js/runtime-main.c46c6f61.js",
     "runtime-main.js.map": "/white-black-hong/chiswap.git/static/js/runtime-main.c46c6f61.js.map",
     "static/css/4.3814f067.chunk.css": "/white-black-hong/chiswap.git/static/css/4.3814f067.chunk.css",
@@ -22,7 +22,7 @@
     "static/js/9.052b77da.chunk.js": "/white-black-hong/chiswap.git/static/js/9.052b77da.chunk.js",
     "static/js/9.052b77da.chunk.js.map": "/white-black-hong/chiswap.git/static/js/9.052b77da.chunk.js.map",
     "index.html": "/white-black-hong/chiswap.git/index.html",
-    "precache-manifest.be9bbd6cb644718baccf54208a302832.js": "/white-black-hong/chiswap.git/precache-manifest.be9bbd6cb644718baccf54208a302832.js",
+    "precache-manifest.597d7071c60db79d48b4a73af62298cf.js": "/white-black-hong/chiswap.git/precache-manifest.597d7071c60db79d48b4a73af62298cf.js",
     "service-worker.js": "/white-black-hong/chiswap.git/service-worker.js",
     "static/css/4.3814f067.chunk.css.map": "/white-black-hong/chiswap.git/static/css/4.3814f067.chunk.css.map",
     "static/js/4.a0a15d8e.chunk.js.LICENSE.txt": "/white-black-hong/chiswap.git/static/js/4.a0a15d8e.chunk.js.LICENSE.txt",
@@ -63,6 +63,6 @@
     "static/js/runtime-main.c46c6f61.js",
     "static/css/4.3814f067.chunk.css",
     "static/js/4.a0a15d8e.chunk.js",
-    "static/js/main.0a3dd452.chunk.js"
+    "static/js/main.eefa037f.chunk.js"
   ]
 }

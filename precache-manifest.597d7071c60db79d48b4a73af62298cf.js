@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a4819f6a779cff3f03662c795186dc7b",
+    "revision": "bc15ac30c954f4c617f13680bc1aaa7d",
     "url": "/white-black-hong/chiswap.git/index.html"
   },
   {
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/white-black-hong/chiswap.git/static/js/9.052b77da.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b4c5097abb781ed733ae",
-    "url": "/white-black-hong/chiswap.git/static/js/main.0a3dd452.chunk.js"
+    "revision": "e165b3e1f2d7dfac6dd5",
+    "url": "/white-black-hong/chiswap.git/static/js/main.eefa037f.chunk.js"
   },
   {
     "revision": "0d280dff6b002d198ac4",

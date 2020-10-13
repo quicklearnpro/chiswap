@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/white-black-hong/chiswap.git/precache-manifest.be9bbd6cb644718baccf54208a302832.js"
+  "/white-black-hong/chiswap.git/precache-manifest.597d7071c60db79d48b4a73af62298cf.js"
 );
 
 self.addEventListener('message', (event) => {
